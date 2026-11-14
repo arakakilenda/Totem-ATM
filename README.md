@@ -99,7 +99,7 @@ Em qual copo você acha que o número está? (Digite C1, C2 ou C3): C2
              RESULTADO
 ----------------------------------------
 
-🎉 PARABÉNS! Você acertou em cheio!
+ PARABÉNS! Você acertou em cheio!
 O número 42 realmente estava escondido no copo C2.
 
 Situação final dos copos na mesa:
@@ -108,7 +108,7 @@ C2: 42
 C3: Vazio
 ```
 
-## 🛠️ Tecnologias e bibliotecas
+##  Tecnologias e bibliotecas
 
 - **Python 3**
 - [`random`](https://docs.python.org/3/library/random.html): sorteio da posição do valor escondido.
@@ -116,7 +116,7 @@ C3: Vazio
 
 
 
-## 🖼️ Créditos das imagens
+##  Créditos das imagens
 
 As imagens usadas na apresentação do projeto vêm das seguintes fontes:
 
