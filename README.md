@@ -42,21 +42,6 @@ O **Jogo dos Três Copos** desafia a percepção e a sorte do usuário:
 - Ao final, o jogo revela a situação de todos os copos e informa se o jogador acertou.
 - É possível jogar várias vezes seguidas.
 
-## ▶️ Como executar
-
-**Pré-requisito:** [Python 3](https://www.python.org/downloads/) instalado.
-
-```bash
-# 1. Clone o repositório
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-
-# 2. Entre na pasta do projeto
-cd SEU-REPOSITORIO
-
-# 3. Execute o jogo
-python jogo_copos.py
-```
-
 > Não há dependências externas: `random` e `time` fazem parte da biblioteca padrão do Python.
 
 ## ⚙️ Funcionamento do código
