@@ -1,5 +1,5 @@
 # Projeto de games em Python jogo dos tres copos
-# 🥤 Jogo dos Três Copos
+# Jogo dos Três Copos
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Interface](https://img.shields.io/badge/Interface-Terminal-1f1f1f)
